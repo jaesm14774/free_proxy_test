@@ -9,6 +9,8 @@
 
 * https://geonode.com/free-proxy-list (0%)
 
-* https://hidemy.name/en/proxy-list/ (0%)
+* https://hidemy.name/en/proxy-list/ (5%)
 
 * https://www.proxyscan.io/ (0.5%)
+
+* https://spys.one/en/free-proxy-list/ (10%)
